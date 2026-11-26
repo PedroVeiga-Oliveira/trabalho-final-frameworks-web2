@@ -16,13 +16,16 @@ Caso queira configurar ou alterar os valores padrão antes de rodar, utilize as 
 Em um terminal, acesse a pasta do backend e execute:
 
 cd backend
+
 .\mvnw.cmd spring-boot:run
 
 ### Frontend (React)
 Em outro terminal, acesse a pasta do frontend e execute:
 
 cd frontend
+
 npm install
+
 npm run dev
 
 ## Vídeo de Demonstração
